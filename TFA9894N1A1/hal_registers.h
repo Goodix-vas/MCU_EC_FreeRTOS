@@ -20,7 +20,7 @@
 #define TFA98XX_SLEEP Sleep
 #else
 #include<unistd.h>
-#define TFA98XX_SLEEP sleep
+#define TFA98XX_SLEEP usleep(1000 * msecs)
 #endif
 //#define TFA98XX_PRINT_DEBUG
 #define TFA98XX_PRINT printf
