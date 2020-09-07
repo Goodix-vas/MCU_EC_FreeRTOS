@@ -1,0 +1,23 @@
+Release Name: TFA9896 EC Release
+
+Release Version: v6.0
+
+Package License: Goodix Base License - LA_Goodix_Base_LICENSE.txt , see /LA_Goodix_Base_LICENSE.txt
+
+
+Goodix Software Content Register
+October 2020
+
+--------------------------------------------
+Package:                   TFA98XX
+Outgoing License:          LA_Goodix_Base_LICENSE.txt
+Package Category:          TFA9896 Driver component  
+Type of content:           Source code
+Description and comments:  Industry-standard files
+                           distributes for MCU cores
+Release Location:          github.com
+Origin:                    Goodix (proprietary) with License Agreement
+license details :          LA_Goodix_Base_LICENSE.txt
+
+
+
